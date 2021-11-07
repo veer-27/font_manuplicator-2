@@ -1,0 +1,44 @@
+.header
+{
+    background-color:gold;
+    border-radius:5px;
+}
+
+#head
+{
+    color:whitesmoke;
+    font-size:25px;
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.note
+{
+    color:black;
+    font-size:13px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+}
+
+.copy_right_footer
+{
+    background-color:grey;
+    border-radius:5px;
+    position:sticky;
+}
+
+#footer
+{
+    font-size: 25px;
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+canvas
+{
+    box-shadow: 5px 5px 5px cyan;
+    border-radius:5px;
+    background-color:grey;
+}
